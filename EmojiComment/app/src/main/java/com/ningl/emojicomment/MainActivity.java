@@ -1,4 +1,4 @@
-package com.ninl.emojicomment;
+package com.ningl.emojicomment;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

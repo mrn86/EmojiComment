@@ -1,4 +1,4 @@
-package com.ninl.emojicomment;
+package com.ningl.emojicomment;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
